@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+.pontuation{
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+
+}
+.normaltext{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+    font-weight: normal;
+}
+.syntax{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.string{
+    color: yellow;
+    font-family: "Consolas";
+}
+.coment{
+    color: gray;
+    font-family: "Consolas";
+    font-weight: bold;
+    font-style: italic;
+}
+.number{
+    color: purple;
+    font-family: "Consolas";
+
+}
+.margin{
+    padding-left: 20px;
+}

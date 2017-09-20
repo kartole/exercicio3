@@ -1,0 +1,35 @@
+
+h1{
+    color: black;
+    font-variant: small-caps;
+}
+
+
+#p1 {
+    color: blue;
+    font-family: Arial;
+    font-size: 30px;
+    text-align: justify;
+}
+#p2{
+    color: green;
+    font-family: Times 'Times New Roman';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+}
+#p3{
+    color: gray;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-decoration: line-through;
+    font-size: 20px;
+    text-align: left;
+}
+#p4{
+    color: brown;
+    font-family: Verdana;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+}
